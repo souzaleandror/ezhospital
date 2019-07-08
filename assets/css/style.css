@@ -1,0 +1,160 @@
+ {
+ 	margin: 0px;
+ 	padding: 0px;
+
+ }
+ 
+ body{
+ 	background-position: 50% 70%;
+ }
+
+/*input {
+	
+	display: block;
+	height: 55px;
+	width:  400px;
+	margin: 10px;
+	border-color: 30px;
+	border-radius: 20px;
+	border: 1px solid black;
+	font-size: 14px;
+	padding: 10px 20px;
+	background-color: rgba(255, 255,255,0.05);
+	color: white;
+	outline: none;
+}
+
+div#corpo-form {
+	/*background-color: red;*
+	width: 420px;
+	margin: 130px auto 0px auto;
+	color: white;
+	font-size: 20px;
+}
+
+a {
+	font-size: 20px;
+}
+
+
+
+div#corpo-form-Cad {
+	/*background-color: red;*
+	width: 420px;
+	margin: 80px auto 0px auto;
+	font-size: 13px;
+	color: white;
+}
+
+div#corpo-form h1, div#corpo-form-Cad h1{
+	color: black;
+	font-family: arial;
+	padding: 35px;
+	text-align: center;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+input[type=submit]{
+	background-color: #FA5858;
+	border:none;
+	cursor: pointer;
+}
+
+::-webkit-input-placeholder {
+   color: #FBD7D7;
+
+:-moz-placeholder { /* Firefox 18- *
+   color: #FBD7D7;
+
+::-moz-placeholder {  /* Firefox 19+ *
+   color: #FBD7D7;
+
+:-ms-input-placeholder {  
+   color: #FBD7D7;
+}
+
+#msg_sucesso {
+	width: 420px;
+	margin: 10px auto;
+	font-size: 30px;
+	background-color: rgba(50,205,50,.3);
+	border: 1px solid rgb(34,139,34);
+}
+
+.msg-erro {
+	font-family: 70px;
+	width: 400px;
+	margin: 10px auto;
+	font-size: 30px;
+	padding: 10px;
+	background-color: rgba(250,128,114,.3);
+	border: 1px solid rgb(165,42,42);
+}
+*/
+
+.titulo {
+	padding: 30px;
+	margin-top: 150px;
+}
+
+/*.btn {
+	background-color: #F4F2F2;
+	font-size: 25px;
+}*/
+
+.link {
+	font-size: 18px;
+	padding: 30px;
+	text-align: center;
+}
+
+.link a:hover {
+	color: #999;
+	text-decoration: none;
+}
+
+.titulo {
+	border: 2px solid #F44336; 
+	border-radius: 5px; 
+	color: #F44336 !important;
+	display: block; 
+	left: 50%;
+	opacity: 0.7; 
+	padding: 5px;
+	position: relative;  
+	transform: translateX(-175%); 
+}
+
+.display-4 {
+	color: #2E2EFE;
+	text-align: center;
+}
+
+.jumbotron {
+	background-color: #FAFAFA;
+	margin-top: 80px;
+	text-align: center;
+}
+
+.voltar {
+	margin-top: 30px;
+    right: 30px;
+    left: 30px;
+    margin-left: 40px;
+    color: green;
+}
+
+.form {
+	margin-top: 180px;
+}
